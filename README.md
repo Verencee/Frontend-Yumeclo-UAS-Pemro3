@@ -1,6 +1,8 @@
-# Rent App (fe-yumecos)
+# Backend Rental Cosplay YumeClo
 
-FrontEnd untuk UAS Pemro 3
+This frontend is built using Vue.js with the Quasar Framework.
+
+Backend repository: 👉 https://github.com/Verencee/Backend-Yumeclo-UAS-Pemro3
 
 ## Install the dependencies
 ```bash

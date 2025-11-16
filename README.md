@@ -1,6 +1,6 @@
 # Rent App (fe-yumecos)
 
-FrontEnd untuk UAS Pemro 3 Verence/Kelvin
+FrontEnd untuk UAS Pemro 3
 
 ## Install the dependencies
 ```bash

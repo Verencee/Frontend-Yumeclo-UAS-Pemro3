@@ -1,0 +1,80 @@
+// app global css in Sass form
+
+// Login-Register
+.yumecos-page-background {
+  background-image: url('~assets/BG-Yumecos.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+//Brand 
+.yumeclo-brand-font {
+    color: aliceblue;
+    font-size: 6rem;
+    text-shadow: 0 0 6px #fff, 0 0 12px #c0aaff;
+}
+
+//Dashboard
+.yumeclo-font {
+    color: aliceblue;
+    text-shadow: 0 0 6px #fff, 0 0 12px #c0aaff;
+}
+
+//Katalog heading 1
+.yumeclo-font-katalog-heading {
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 2px #000000, 0 0 12px #c0aaff;
+}
+
+//Katalog heading 2
+.yumeclo-font-katalog-heading-2 {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 1px #000000, 0 0 12px #c0aaff;
+}
+
+//Katalog heading 3
+.yumeclo-font-katalog-heading-3 {
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 1px #000000, 0 0 12px #c0aaff;
+}
+
+//Katalog heading 4
+.yumeclo-font-katalog-heading-harga {
+    font-size: 20px;
+}
+
+
+//Text Break
+.text-break {
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+//Card BG
+.my-card {
+  border-radius: 20px;
+  background: rgba(249, 249, 249, 0.592);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+//Card Katalog
+.my-card-katalog {
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+//Text Dialog
+.text-dialog {
+  font-size: 17px;
+} 
